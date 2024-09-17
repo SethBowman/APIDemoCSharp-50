@@ -1,0 +1,17 @@
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\APIDemoCSharp-50.exe
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\APIDemoCSharp-50.deps.json
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\APIDemoCSharp-50.runtimeconfig.json
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\APIDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\APIDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.csproj.AssemblyReference.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.AssemblyInfoInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.AssemblyInfo.cs
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.csproj.CoreCompileInputs.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoC.588A9FF1.Up2Date
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\refint\APIDemoCSharp-50.dll
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.pdb
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\APIDemoCSharp-50.genruntimeconfig.cache
+C:\Users\sbowm\OneDrive\Desktop\repos\APIDemoCSharp-50\APIDemoCSharp-50\obj\Debug\net8.0\ref\APIDemoCSharp-50.dll
